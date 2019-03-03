@@ -1,0 +1,1747 @@
+{
+  "datasets": [
+    {
+      "version": "v1",
+      "data": {
+        "id": "iq6vztlf9",
+        "label": "CF72Algustats.csv",
+        "color": [
+          0,
+          92,
+          255
+        ],
+        "allData": [
+          [
+            "Sant Andreu",
+            41.446076,
+            2.216371,
+            13
+          ],
+          [
+            "Carrer de Sant Adrià",
+            41.433817,
+            2.191577,
+            11
+          ],
+          [
+            "Cardona",
+            41.381112,
+            2.165112,
+            7
+          ],
+          [
+            "Reus",
+            41.1427479,
+            1.1129908,
+            7
+          ],
+          [
+            "Tarragona",
+            41.1161943,
+            1.2508477,
+            7
+          ],
+          [
+            "Joan I",
+            41.40732,
+            2.187055,
+            6
+          ],
+          [
+            "Carrer de Mallorca",
+            41.379526,
+            2.143606,
+            5
+          ],
+          [
+            "Mallorca",
+            41.400103,
+            2.170919,
+            5
+          ],
+          [
+            "Ortigosa",
+            41.387756,
+            2.174316,
+            5
+          ],
+          [
+            "Carrer de Laforja",
+            41.395032,
+            2.143001,
+            5
+          ],
+          [
+            "Comerç",
+            41.389918,
+            2.181378,
+            4
+          ],
+          [
+            "Palau",
+            41.381445,
+            2.177588,
+            4
+          ],
+          [
+            "Passeig de Valldaura",
+            41.439847,
+            2.186283,
+            4
+          ],
+          [
+            "La Rambla",
+            41.385465,
+            2.169944,
+            4
+          ],
+          [
+            "Gràcia",
+            41.446931,
+            2.229193,
+            4
+          ],
+          [
+            "Roura",
+            41.407657,
+            2.12633,
+            4
+          ],
+          [
+            "la Portella",
+            41.7408549,
+            0.6379269,
+            4
+          ],
+          [
+            "Curt",
+            41.431046,
+            2.157097,
+            3
+          ],
+          [
+            "Trinxant",
+            41.413981,
+            2.186808,
+            3
+          ],
+          [
+            "Segre",
+            41.430921,
+            2.194746,
+            3
+          ],
+          [
+            "Catalunya",
+            41.431012,
+            2.218311,
+            3
+          ],
+          [
+            "Carrer de Muntaner",
+            41.406455,
+            2.13312,
+            3
+          ],
+          [
+            "Muntaner",
+            41.406455,
+            2.13312,
+            3
+          ],
+          [
+            "Barcelona",
+            41.384741,
+            2.1829768,
+            3
+          ],
+          [
+            "Escornalbou",
+            41.417135,
+            2.180393,
+            3
+          ],
+          [
+            "Hospital",
+            41.381241,
+            2.173054,
+            3
+          ],
+          [
+            "Aragó",
+            41.408798,
+            2.18727,
+            3
+          ],
+          [
+            "Puigcerdà",
+            42.4327442,
+            1.9362592,
+            3
+          ],
+          [
+            "Constància",
+            41.374478,
+            2.091647,
+            2
+          ],
+          [
+            "Claret",
+            41.37241,
+            2.121246,
+            2
+          ],
+          [
+            "Porto",
+            41.429328,
+            2.157919,
+            2
+          ],
+          [
+            "Carrer del Segre",
+            41.430921,
+            2.194746,
+            2
+          ],
+          [
+            "Sant Francesc",
+            41.354976,
+            2.154792,
+            2
+          ],
+          [
+            "Carrer de Varsòvia",
+            41.41865,
+            2.172838,
+            2
+          ],
+          [
+            "Varsòvia",
+            41.41865,
+            2.172838,
+            2
+          ],
+          [
+            "Pietat",
+            41.448357,
+            2.247856,
+            2
+          ],
+          [
+            "Plaça de Catalunya",
+            41.387923,
+            2.169951,
+            2
+          ],
+          [
+            "Esplugues",
+            41.394997,
+            2.113164,
+            2
+          ],
+          [
+            "València",
+            41.378856,
+            2.14489,
+            2
+          ],
+          [
+            "Carrer de Sant Narcís",
+            41.431136,
+            2.192589,
+            2
+          ],
+          [
+            "Sant Narcís",
+            41.431136,
+            2.192589,
+            2
+          ],
+          [
+            "Estació",
+            41.436126,
+            2.192669,
+            2
+          ],
+          [
+            "Granados",
+            41.40653,
+            2.116294,
+            2
+          ],
+          [
+            "Caire",
+            41.411731,
+            2.140916,
+            2
+          ],
+          [
+            "Corts",
+            41.386655,
+            2.128095,
+            2
+          ],
+          [
+            "Carrer de Septimània",
+            41.404958,
+            2.146407,
+            2
+          ],
+          [
+            "Aribau",
+            41.39073,
+            2.156189,
+            2
+          ],
+          [
+            "Carrer de les Monges",
+            41.43018,
+            2.187998,
+            1
+          ],
+          [
+            "Conca de Tremp",
+            41.424401,
+            2.154682,
+            1
+          ],
+          [
+            "Tremp",
+            42.1723075,
+            0.8954919,
+            1
+          ],
+          [
+            "Sitges",
+            41.2347179,
+            1.8064412,
+            1
+          ],
+          [
+            "Cortines",
+            41.388676,
+            2.179884,
+            1
+          ],
+          [
+            "Escuder",
+            41.379659,
+            2.189111,
+            1
+          ],
+          [
+            "Torras i Bages",
+            41.446575,
+            2.23889,
+            1
+          ],
+          [
+            "Alumini",
+            41.359588,
+            2.132576,
+            1
+          ],
+          [
+            "Guineueta",
+            41.439291,
+            2.166319,
+            1
+          ],
+          [
+            "Forn",
+            41.376885,
+            2.144278,
+            1
+          ],
+          [
+            "Carrer de Moliné",
+            41.398579,
+            2.147733,
+            1
+          ],
+          [
+            "Moliné",
+            41.398579,
+            2.147733,
+            1
+          ],
+          [
+            "Jorba",
+            41.436524,
+            2.186703,
+            1
+          ],
+          [
+            "forja",
+            41.395032,
+            2.143001,
+            1
+          ],
+          [
+            "Clot",
+            41.41069,
+            2.18939,
+            1
+          ],
+          [
+            "Carrer de Murillo",
+            41.373161,
+            2.161481,
+            1
+          ],
+          [
+            "Murillo",
+            41.373161,
+            2.161481,
+            1
+          ],
+          [
+            "carrer de Mar",
+            41.44713,
+            2.250439,
+            1
+          ],
+          [
+            "Balmes",
+            41.410111,
+            2.136638,
+            1
+          ],
+          [
+            "Passeig de Gràcia",
+            41.389435,
+            2.168083,
+            1
+          ],
+          [
+            "Flors",
+            41.37586,
+            2.168514,
+            1
+          ],
+          [
+            "Castanys",
+            41.40022,
+            2.205739,
+            1
+          ],
+          [
+            "Pons",
+            41.443877,
+            2.17991,
+            1
+          ],
+          [
+            "Carrer de Sant Andreu",
+            41.446076,
+            2.216371,
+            1
+          ],
+          [
+            "Passeig de Maragall",
+            41.424247,
+            2.177219,
+            1
+          ],
+          [
+            "Maragall",
+            41.448749,
+            2.240523,
+            1
+          ],
+          [
+            "Sant Antoni",
+            41.434838,
+            2.212539,
+            1
+          ],
+          [
+            "Sant Antoni Maria Claret",
+            41.420583,
+            2.187017,
+            1
+          ],
+          [
+            "Sant Pau",
+            41.376016,
+            2.168699,
+            1
+          ],
+          [
+            "Juliol",
+            41.416941,
+            2.174109,
+            1
+          ],
+          [
+            "Reforma",
+            41.360235,
+            2.094724,
+            1
+          ],
+          [
+            "Carrer Major",
+            41.45133,
+            2.202885,
+            1
+          ],
+          [
+            "Plaça de Lesseps",
+            41.40624,
+            2.14985,
+            1
+          ],
+          [
+            "Carrer de València",
+            41.378856,
+            2.14489,
+            1
+          ],
+          [
+            "Ronda de Sant Pere",
+            41.391587,
+            2.179829,
+            1
+          ],
+          [
+            "Sant Pere",
+            41.42649,
+            2.220456,
+            1
+          ],
+          [
+            "Canó",
+            41.401194,
+            2.157593,
+            1
+          ],
+          [
+            "Espiell",
+            41.429431,
+            2.168456,
+            1
+          ],
+          [
+            "Terrassa",
+            41.5754939,
+            2.0610967,
+            1
+          ],
+          [
+            "Glòria",
+            41.366801,
+            2.119166,
+            1
+          ]
+        ],
+        "fields": [
+          {
+            "name": "city",
+            "type": "string",
+            "format": ""
+          },
+          {
+            "name": "lat",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "lng",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "freq",
+            "type": "integer",
+            "format": ""
+          }
+        ]
+      }
+    },
+    {
+      "version": "v1",
+      "data": {
+        "id": "dsqyhmr",
+        "label": "CF53inspectorstats.csv",
+        "color": [
+          192,
+          108,
+          132
+        ],
+        "allData": [
+          [
+            "Roger de Flor",
+            41.39283,
+            2.1805,
+            true
+          ],
+          [
+            "Carrer d'Al� Bei",
+            41.39331,
+            2.18052,
+            true
+          ],
+          [
+            "arc de triomf",
+            41.39105,
+            2.18068,
+            true
+          ]
+        ],
+        "fields": [
+          {
+            "name": "city",
+            "type": "string",
+            "format": ""
+          },
+          {
+            "name": "lat",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "lng",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "freq",
+            "type": "boolean",
+            "format": ""
+          }
+        ]
+      }
+    },
+    {
+      "version": "v1",
+      "data": {
+        "id": "rbgql71r",
+        "label": "CF65Jocstats.csv",
+        "color": [
+          248,
+          177,
+          149
+        ],
+        "allData": [
+          [
+            "Corts",
+            41.386655,
+            2.128095,
+            7
+          ],
+          [
+            "Barcelona",
+            41.384741,
+            2.1829768,
+            6
+          ],
+          [
+            "Gràcia",
+            41.446931,
+            2.229193,
+            5
+          ],
+          [
+            "Freixa",
+            41.399285,
+            2.134174,
+            5
+          ],
+          [
+            "Santa Coloma",
+            41.431888,
+            2.193283,
+            4
+          ],
+          [
+            "Tortosa",
+            40.8012258,
+            0.522123,
+            3
+          ],
+          [
+            "Catalunya",
+            41.431012,
+            2.218311,
+            3
+          ],
+          [
+            "Formiga",
+            41.433777,
+            2.202375,
+            2
+          ],
+          [
+            "Sarrià",
+            41.401323,
+            2.114484,
+            2
+          ],
+          [
+            "Tarragona",
+            41.1161943,
+            1.2508477,
+            2
+          ],
+          [
+            "Lleida",
+            41.620778,
+            0.6327802,
+            2
+          ],
+          [
+            "Móra la Nova",
+            41.419232,
+            2.150437,
+            2
+          ],
+          [
+            "Badalona",
+            41.4446114,
+            2.2379545,
+            2
+          ],
+          [
+            "Ciutadella",
+            41.431798,
+            2.155452,
+            1
+          ],
+          [
+            "Via Laietana",
+            41.381254,
+            2.182323,
+            1
+          ],
+          [
+            "Morales",
+            41.389166,
+            2.139136,
+            1
+          ],
+          [
+            "Horta",
+            41.430899,
+            2.160692,
+            1
+          ],
+          [
+            "Sors",
+            41.408436,
+            2.158937,
+            1
+          ],
+          [
+            "Morell",
+            41.417083,
+            2.141999,
+            1
+          ],
+          [
+            "Plaça de la Universitat",
+            41.384904,
+            2.163952,
+            1
+          ],
+          [
+            "Molí",
+            41.371288,
+            2.099505,
+            1
+          ],
+          [
+            "Bellcaire",
+            41.435868,
+            2.164332,
+            1
+          ],
+          [
+            "Tossa",
+            41.428488,
+            2.157778,
+            1
+          ],
+          [
+            "Almacelles",
+            41.423204,
+            2.20053,
+            1
+          ],
+          [
+            "Bilbao",
+            41.409393,
+            2.19469,
+            1
+          ],
+          [
+            "Plaça de Catalunya",
+            41.387923,
+            2.169951,
+            1
+          ],
+          [
+            "Badia",
+            41.403343,
+            2.154301,
+            1
+          ],
+          [
+            "Fígols",
+            41.382603,
+            2.129614,
+            1
+          ],
+          [
+            "República Argentina",
+            41.413959,
+            2.137979,
+            1
+          ],
+          [
+            "Santa Coloma de Gramenet",
+            41.4540651,
+            2.2064721,
+            1
+          ],
+          [
+            "Constància",
+            41.374478,
+            2.091647,
+            1
+          ],
+          [
+            "Diana",
+            41.43427,
+            2.166435,
+            1
+          ],
+          [
+            "carrer de la Creu",
+            41.447995,
+            2.24293,
+            1
+          ],
+          [
+            "Carrer Transversal",
+            41.361071,
+            2.127493,
+            1
+          ],
+          [
+            "Transversal",
+            41.361071,
+            2.127493,
+            1
+          ],
+          [
+            "Carrer del Bruc",
+            41.39925,
+            2.162966,
+            1
+          ],
+          [
+            "Rosella",
+            41.418932,
+            2.137843,
+            1
+          ]
+        ],
+        "fields": [
+          {
+            "name": "city",
+            "type": "string",
+            "format": ""
+          },
+          {
+            "name": "lat",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "lng",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "freq",
+            "type": "integer",
+            "format": ""
+          }
+        ]
+      }
+    },
+    {
+      "version": "v1",
+      "data": {
+        "id": "mp4u1ldvq",
+        "label": "CF67Mossstats.csv",
+        "color": [
+          84,
+          122,
+          130
+        ],
+        "allData": [
+          [
+            "Glòria",
+            41.366801,
+            2.119166,
+            10
+          ],
+          [
+            "Sant Andreu",
+            41.446076,
+            2.216371,
+            5
+          ],
+          [
+            "Barcelona",
+            41.384741,
+            2.1829768,
+            5
+          ],
+          [
+            "Amigó",
+            41.393988,
+            2.14618,
+            5
+          ],
+          [
+            "Ciències",
+            41.423739,
+            2.158392,
+            3
+          ],
+          [
+            "Gràcia",
+            41.446931,
+            2.229193,
+            3
+          ],
+          [
+            "Via Augusta",
+            41.401128,
+            2.147644,
+            3
+          ],
+          [
+            "Calvet",
+            41.397853,
+            2.139945,
+            3
+          ],
+          [
+            "Corts",
+            41.386655,
+            2.128095,
+            2
+          ],
+          [
+            "Carrer de la Unió",
+            41.36562,
+            2.128368,
+            2
+          ],
+          [
+            "Unió",
+            41.378977,
+            2.172845,
+            2
+          ],
+          [
+            "Alexandre",
+            41.384955,
+            2.090335,
+            2
+          ],
+          [
+            "Alcolea",
+            41.381332,
+            2.134291,
+            2
+          ],
+          [
+            "Cornellà",
+            41.366475,
+            2.088925,
+            2
+          ],
+          [
+            "Muntaner",
+            41.406455,
+            2.13312,
+            2
+          ],
+          [
+            "Pàdua",
+            41.40331,
+            2.142963,
+            2
+          ],
+          [
+            "Reina Amàlia",
+            41.376016,
+            2.168699,
+            2
+          ],
+          [
+            "Fortuna",
+            41.360478,
+            2.121205,
+            2
+          ],
+          [
+            "Carrer de València",
+            41.378856,
+            2.14489,
+            1
+          ],
+          [
+            "València",
+            41.378856,
+            2.14489,
+            1
+          ],
+          [
+            "Carbó",
+            41.432386,
+            2.234434,
+            1
+          ],
+          [
+            "Carrer de Monlau",
+            41.426609,
+            2.190954,
+            1
+          ],
+          [
+            "Monlau",
+            41.426609,
+            2.190954,
+            1
+          ],
+          [
+            "Santa Pau",
+            42.1451395,
+            2.5724239,
+            1
+          ],
+          [
+            "Gràcia",
+            41.375356,
+            2.137939,
+            1
+          ],
+          [
+            "Castanys",
+            41.40022,
+            2.205739,
+            1
+          ],
+          [
+            "Manresa",
+            41.7202417,
+            1.8264886,
+            1
+          ],
+          [
+            "Terrassa",
+            41.5754939,
+            2.0610967,
+            1
+          ],
+          [
+            "Olzinelles",
+            41.369998,
+            2.13781,
+            1
+          ],
+          [
+            "Núria",
+            41.452625,
+            2.224897,
+            1
+          ],
+          [
+            "Feliu",
+            41.418004,
+            2.175058,
+            1
+          ],
+          [
+            "Dragó",
+            41.438375,
+            2.18724,
+            1
+          ],
+          [
+            "Carrer de la Independència",
+            41.406047,
+            2.185667,
+            1
+          ],
+          [
+            "Comerç",
+            41.389918,
+            2.181378,
+            1
+          ],
+          [
+            "Tossal",
+            41.448701,
+            2.190372,
+            1
+          ],
+          [
+            "Passeig de Sant Joan",
+            41.404383,
+            2.162676,
+            1
+          ],
+          [
+            "Sant Joan",
+            41.449803,
+            2.246809,
+            1
+          ],
+          [
+            "Carrer de Scala Dei",
+            41.439171,
+            2.158089,
+            1
+          ],
+          [
+            "Scala Dei",
+            41.439171,
+            2.158089,
+            1
+          ],
+          [
+            "Passeig de Valldaura",
+            41.439847,
+            2.186283,
+            1
+          ],
+          [
+            "Carrer A",
+            41.350734,
+            2.145742,
+            1
+          ],
+          [
+            "Tremp",
+            42.1723075,
+            0.8954919,
+            1
+          ],
+          [
+            "Santaló",
+            41.398445,
+            2.14227,
+            1
+          ],
+          [
+            "Descartes",
+            41.398648,
+            2.140628,
+            1
+          ],
+          [
+            "Carrer de Muntaner",
+            41.406455,
+            2.13312,
+            1
+          ],
+          [
+            "Madrazo",
+            41.400954,
+            2.149932,
+            1
+          ],
+          [
+            "Sant Just",
+            41.447535,
+            2.212452,
+            1
+          ],
+          [
+            "Europa",
+            41.35738,
+            2.112958,
+            1
+          ],
+          [
+            "Carrer de Maria",
+            41.399341,
+            2.157468,
+            1
+          ],
+          [
+            "Carrer de Maria Barrientos",
+            41.379941,
+            2.126718,
+            1
+          ],
+          [
+            "Carrer de Calvet",
+            41.397853,
+            2.139945,
+            1
+          ],
+          [
+            "Espiell",
+            41.429431,
+            2.168456,
+            1
+          ],
+          [
+            "Llançà",
+            41.372995,
+            2.1164,
+            1
+          ],
+          [
+            "Carrer de Pàdua",
+            41.40331,
+            2.142963,
+            1
+          ],
+          [
+            "Balmes",
+            41.410111,
+            2.136638,
+            1
+          ],
+          [
+            "Palau",
+            41.381445,
+            2.177588,
+            1
+          ],
+          [
+            "Pedralbes",
+            41.390033,
+            2.119053,
+            1
+          ]
+        ],
+        "fields": [
+          {
+            "name": "city",
+            "type": "string",
+            "format": ""
+          },
+          {
+            "name": "lat",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "lng",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "freq",
+            "type": "integer",
+            "format": ""
+          }
+        ]
+      }
+    },
+    {
+      "version": "v1",
+      "data": {
+        "id": "o883guswk",
+        "label": "CF52esvessaunastats.csv",
+        "color": [
+          162,
+          212,
+          171
+        ],
+        "allData": [
+          [
+            "Girona",
+            41.9857763,
+            2.8232477,
+            32
+          ],
+          [
+            "Barcelona",
+            41.384741,
+            2.1829768,
+            12
+          ],
+          [
+            "Sils",
+            41.8067043,
+            2.7499411,
+            5
+          ],
+          [
+            "Hostalric",
+            41.7448345,
+            2.6277191,
+            5
+          ],
+          [
+            "Joan I",
+            41.40732,
+            2.187055,
+            4
+          ],
+          [
+            "La Rambla",
+            41.385465,
+            2.169944,
+            3
+          ],
+          [
+            "Figueres",
+            42.2677761,
+            2.9607079,
+            3
+          ],
+          [
+            "Clarà",
+            41.447195,
+            2.19905,
+            2
+          ],
+          [
+            "Molí",
+            41.371288,
+            2.099505,
+            2
+          ],
+          [
+            "Sant Pere",
+            41.42649,
+            2.220456,
+            1
+          ],
+          [
+            "Carrer del Carme",
+            41.380419,
+            2.1673,
+            1
+          ],
+          [
+            "Llevant",
+            41.38335,
+            2.184827,
+            1
+          ],
+          [
+            "Badalona",
+            41.4446114,
+            2.2379545,
+            1
+          ],
+          [
+            "Claret",
+            41.37241,
+            2.121246,
+            1
+          ],
+          [
+            "Arbúcies",
+            41.8150826,
+            2.5178597,
+            1
+          ],
+          [
+            "Catalunya",
+            41.431012,
+            2.218311,
+            1
+          ],
+          [
+            "la Riba",
+            41.3183528,
+            1.1779088,
+            1
+          ],
+          [
+            "Santa Margarida",
+            41.379256,
+            2.172244,
+            1
+          ],
+          [
+            "Gràcia",
+            41.446931,
+            2.229193,
+            1
+          ],
+          [
+            "El Putxet",
+            41.4074307,
+            2.1443937,
+            2
+          ]
+        ],
+        "fields": [
+          {
+            "name": "city",
+            "type": "string",
+            "format": ""
+          },
+          {
+            "name": "lat",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "lng",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "freq",
+            "type": "integer",
+            "format": ""
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "version": "v1",
+    "config": {
+      "visState": {
+        "filters": [],
+        "layers": [
+          {
+            "id": "cvo7sxj",
+            "type": "point",
+            "config": {
+              "dataId": "o883guswk",
+              "label": "Es vessa una sang fàcil",
+              "color": [
+                254,
+                242,
+                26,
+                255
+              ],
+              "columns": {
+                "lat": "lat",
+                "lng": "lng",
+                "altitude": null
+              },
+              "isVisible": false,
+              "visConfig": {
+                "radius": 10,
+                "fixedRadius": false,
+                "opacity": 0.19,
+                "outline": false,
+                "thickness": 2,
+                "colorRange": {
+                  "name": "Global Warming",
+                  "type": "sequential",
+                  "category": "Uber",
+                  "colors": [
+                    "#5A1846",
+                    "#900C3F",
+                    "#C70039",
+                    "#E3611C",
+                    "#F1920E",
+                    "#FFC300"
+                  ]
+                },
+                "radiusRange": [
+                  29,
+                  50
+                ],
+                "hi-precision": false
+              }
+            },
+            "visualChannels": {
+              "colorField": null,
+              "colorScale": "quantile",
+              "sizeField": {
+                "name": "freq",
+                "type": "integer"
+              },
+              "sizeScale": "sqrt"
+            }
+          },
+          {
+            "id": "5k74uik",
+            "type": "point",
+            "config": {
+              "dataId": "dsqyhmr",
+              "label": "l'Inspector arriba tard",
+              "color": [
+                255,
+                152,
+                51,
+                255
+              ],
+              "columns": {
+                "lat": "lat",
+                "lng": "lng",
+                "altitude": null
+              },
+              "isVisible": true,
+              "visConfig": {
+                "radius": 10,
+                "fixedRadius": false,
+                "opacity": 0.13,
+                "outline": false,
+                "thickness": 2,
+                "colorRange": {
+                  "name": "Global Warming",
+                  "type": "sequential",
+                  "category": "Uber",
+                  "colors": [
+                    "#5A1846",
+                    "#900C3F",
+                    "#C70039",
+                    "#E3611C",
+                    "#F1920E",
+                    "#FFC300"
+                  ]
+                },
+                "radiusRange": [
+                  29,
+                  50
+                ],
+                "hi-precision": false
+              }
+            },
+            "visualChannels": {
+              "colorField": null,
+              "colorScale": "quantile",
+              "sizeField": {
+                "name": "freq",
+                "type": "boolean"
+              },
+              "sizeScale": "point"
+            }
+          },
+          {
+            "id": "4jc699g",
+            "type": "point",
+            "config": {
+              "dataId": "rbgql71r",
+              "label": "Joc Brut",
+              "color": [
+                253,
+                121,
+                0,
+                255
+              ],
+              "columns": {
+                "lat": "lat",
+                "lng": "lng",
+                "altitude": null
+              },
+              "isVisible": false,
+              "visConfig": {
+                "radius": 10,
+                "fixedRadius": false,
+                "opacity": 0.16,
+                "outline": false,
+                "thickness": 2,
+                "colorRange": {
+                  "name": "Global Warming",
+                  "type": "sequential",
+                  "category": "Uber",
+                  "colors": [
+                    "#5A1846",
+                    "#900C3F",
+                    "#C70039",
+                    "#E3611C",
+                    "#F1920E",
+                    "#FFC300"
+                  ]
+                },
+                "radiusRange": [
+                  29,
+                  50
+                ],
+                "hi-precision": false
+              }
+            },
+            "visualChannels": {
+              "colorField": null,
+              "colorScale": "quantile",
+              "sizeField": {
+                "name": "freq",
+                "type": "integer"
+              },
+              "sizeScale": "sqrt"
+            }
+          },
+          {
+            "id": "3cex89s",
+            "type": "point",
+            "config": {
+              "dataId": "mp4u1ldvq",
+              "label": "Mossegar-se la cua",
+              "color": [
+                203,
+                56,
+                11,
+                255
+              ],
+              "columns": {
+                "lat": "lat",
+                "lng": "lng",
+                "altitude": null
+              },
+              "isVisible": false,
+              "visConfig": {
+                "radius": 10,
+                "fixedRadius": false,
+                "opacity": 0.18,
+                "outline": false,
+                "thickness": 2,
+                "colorRange": {
+                  "name": "Global Warming",
+                  "type": "sequential",
+                  "category": "Uber",
+                  "colors": [
+                    "#5A1846",
+                    "#900C3F",
+                    "#C70039",
+                    "#E3611C",
+                    "#F1920E",
+                    "#FFC300"
+                  ]
+                },
+                "radiusRange": [
+                  29,
+                  50
+                ],
+                "hi-precision": false
+              }
+            },
+            "visualChannels": {
+              "colorField": null,
+              "colorScale": "quantile",
+              "sizeField": {
+                "name": "freq",
+                "type": "integer"
+              },
+              "sizeScale": "sqrt"
+            }
+          },
+          {
+            "id": "k1ejcvs",
+            "type": "point",
+            "config": {
+              "dataId": "iq6vztlf9",
+              "label": "Algú que no hi havia de ser",
+              "color": [
+                218,
+                0,
+                0,
+                255
+              ],
+              "columns": {
+                "lat": "lat",
+                "lng": "lng",
+                "altitude": null
+              },
+              "isVisible": false,
+              "visConfig": {
+                "radius": 10,
+                "fixedRadius": false,
+                "opacity": 0.19,
+                "outline": false,
+                "thickness": 2,
+                "colorRange": {
+                  "name": "Global Warming",
+                  "type": "sequential",
+                  "category": "Uber",
+                  "colors": [
+                    "#5A1846",
+                    "#900C3F",
+                    "#C70039",
+                    "#E3611C",
+                    "#F1920E",
+                    "#FFC300"
+                  ]
+                },
+                "radiusRange": [
+                  29.4,
+                  50
+                ],
+                "hi-precision": true
+              }
+            },
+            "visualChannels": {
+              "colorField": null,
+              "colorScale": "quantile",
+              "sizeField": {
+                "name": "freq",
+                "type": "integer"
+              },
+              "sizeScale": "sqrt"
+            }
+          }
+        ],
+        "interactionConfig": {
+          "tooltip": {
+            "fieldsToShow": {
+              "iq6vztlf9": [
+                "city",
+                "freq"
+              ],
+              "dsqyhmr": [
+                "city",
+                "freq"
+              ],
+              "rbgql71r": [
+                "city",
+                "freq"
+              ],
+              "mp4u1ldvq": [
+                "city",
+                "freq"
+              ],
+              "o883guswk": [
+                "city",
+                "freq"
+              ]
+            },
+            "enabled": true
+          },
+          "brush": {
+            "size": 0.5,
+            "enabled": false
+          }
+        },
+        "layerBlending": "normal",
+        "splitMaps": []
+      },
+      "mapState": {
+        "bearing": 0,
+        "dragRotate": false,
+        "latitude": 41.39218827013812,
+        "longitude": 2.1799809765839604,
+        "pitch": 0,
+        "zoom": 16.35806027736611,
+        "isSplit": false
+      },
+      "mapStyle": {
+        "styleType": "dark",
+        "topLayerGroups": {},
+        "visibleLayerGroups": {
+          "label": true,
+          "road": true,
+          "border": false,
+          "building": true,
+          "water": true,
+          "land": true
+        },
+        "mapStyles": {}
+      }
+    }
+  },
+  "info": {
+    "app": "kepler.gl",
+    "created_at": "Tue Oct 02 2018 21:35:06 GMT+0100 (IST)"
+  }
+}
