@@ -1,0 +1,763 @@
+{
+  "datasets": [
+    {
+      "version": "v1",
+      "data": {
+        "id": "yhxns7an9",
+        "label": "Mecanoscrit1973reprod.csv",
+        "color": [
+          143,
+          47,
+          191
+        ],
+        "allData": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "Manarola",
+            44.1066,
+            9.7275,
+            1,
+            "Attacked"
+          ],
+          [
+            "Benaura",
+            41647,
+            1.1412,
+            12,
+            "Virgin and mother to Didac"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "Tossa",
+            41.7198,
+            2.9309,
+            1,
+            "Pregnant"
+          ],
+          [
+            "golf de lion",
+            43.2752,
+            3.793,
+            1,
+            "Sexually Active"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "anacapri",
+            40.5558,
+            14.2138,
+            1,
+            "Pregnant"
+          ],
+          [
+            "Badalona",
+            41.4446114,
+            2.2379545,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "biblioteca de Catalunya",
+            41.38102,
+            2.16952,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Gran Caf� Catal�n",
+            41.37745,
+            2.17674,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Cabrils",
+            41.5257276,
+            2.3686084,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Camp d�aviaci� del Prat",
+            41.3015,
+            2.0801,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Camp de la Bota",
+            41.416378,
+            2.225946,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Can Tunis",
+            41.3489,
+            2.1547,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Capri",
+            40.55,
+            14.2246,
+            1,
+            "Pregnant"
+          ],
+          [
+            "Carrer Ample",
+            41.380057,
+            2.179674,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Carrer Major",
+            41.45133,
+            2.202885,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "castell de l�orvo",
+            40.82787,
+            14.24775,
+            1,
+            "Pregnant"
+          ],
+          [
+            "Castelldefels",
+            41.2653586,
+            1.9543445,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "castelldefels platja",
+            41.2643,
+            1.9574,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Ciutadella",
+            41.431798,
+            2.155452,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Colònia",
+            41.431099,
+            2.190321,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Col�nia fabril",
+            41.6751,
+            1.27614,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "el Masnou",
+            41.4797546,
+            2.3040263,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "El Raval",
+            41.3795176,
+            2.1683678,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "etna",
+            37752,
+            14995,
+            1,
+            "Pregnant"
+          ],
+          [
+            "Gavà",
+            41.3143727,
+            1.9613724,
+            1,
+            "Mother of Mar"
+          ],
+          [
+            "g�nova",
+            44.4088,
+            8.9326,
+            null,
+            "Pregnant"
+          ],
+          [
+            "gioia tauro",
+            38.4286,
+            15.8986,
+            null,
+            "Pregnant"
+          ],
+          [
+            "illa d�elba",
+            42.7803,
+            10299,
+            1,
+            "Pregnant"
+          ],
+          [
+            "ischia",
+            40.7284,
+            13909,
+            1,
+            "Pregnant"
+          ],
+          [
+            "jardins universitaria",
+            41.3872,
+            2118,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "la carretera que travessava els ravals de Benaura",
+            41.6499,
+            1.14236,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "La Diagonal",
+            41.384395,
+            2.111864,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "La Spezia",
+            44.0945,
+            9.8084,
+            1,
+            "Sexually Active"
+          ],
+          [
+            "la Rambla",
+            41.3806,
+            2.1738,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Llobregat",
+            41.371831,
+            2.120362,
+            2,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Masnou",
+            41.4800306,
+            2.3206358,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Mataró",
+            41.5544068,
+            2.4703974,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "matar�",
+            41.5398,
+            2.445,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Muntanya Pelada",
+            41.4017,
+            2.10318,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Moll de Sant Bertran",
+            41.37244,
+            2.17728,
+            1,
+            "Pregnant"
+          ],
+          [
+            "Montju�c",
+            41.3646,
+            2.1543,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "montserrat",
+            41.6059,
+            1.8076,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Muntanya de Montserrat",
+            41.419501,
+            2.163654,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "napols",
+            40.8336,
+            14.2482,
+            1,
+            "Pregnant"
+          ],
+          [
+            "Necr�polis etrusca",
+            42.0012,
+            12.0962,
+            1,
+            "Pregnant"
+          ],
+          [
+            "Niça",
+            43.6999,
+            7.2688,
+            1,
+            "Sexually Active"
+          ],
+          [
+            "Palau Nacional",
+            41.36833,
+            2.15363,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Palmi",
+            38.357,
+            15.8643,
+            1,
+            "Pregnant"
+          ],
+          [
+            "Parc de Sant Eloi T�rrega",
+            41.6533,
+            1.1326,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Passeig de Gràcia",
+            41.389435,
+            2.168083,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "piombino",
+            42.9328,
+            10.5235,
+            1,
+            "Pregnant"
+          ],
+          [
+            "Pla�a Major de T�rrega",
+            41.64634,
+            1.1393,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Plaça de Catalunya",
+            41.387923,
+            2.169951,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "pla�a de l�hort barceloni",
+            41.64413,
+            1.14163,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "placa del turo",
+            41.39269,
+            2.14449,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Port d�Arenys",
+            41.5774,
+            2.5592,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "porto azzurro",
+            42.76663,
+            10.39715,
+            1,
+            "Pregnant"
+          ],
+          [
+            "Premi�",
+            41.4927,
+            2.3606,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Provença",
+            41.397549,
+            2.165218,
+            1,
+            "Pregnant"
+          ],
+          [
+            "S�te",
+            43.4013,
+            3.6962,
+            1,
+            "Pregnant"
+          ],
+          [
+            "sicilia",
+            37510,
+            14128,
+            1,
+            "Pregnant"
+          ],
+          [
+            "taormina",
+            37.8515,
+            15.2864,
+            1,
+            "Pregnant"
+          ],
+          [
+            "tarquinia",
+            42.2539,
+            11.7581,
+            1,
+            "Pregnant"
+          ],
+          [
+            "tibidabo",
+            41.4228,
+            2.1192,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Tossa",
+            41.7198,
+            2.9309,
+            1,
+            "Sexually Active"
+          ],
+          [
+            "toulon",
+            43.1263,
+            5.9307,
+            1,
+            "Pregnant"
+          ],
+          [
+            "una botiga on venien robes de tota mena",
+            41.64642,
+            1.13927,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "una font improvisada",
+            41.64608,
+            1.13982,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Vallvidrera",
+            41.451781,
+            2.224064,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "via garibaldi geneva",
+            44.41121,
+            8.9326,
+            1,
+            "Pregnant"
+          ],
+          [
+            "Vilanova",
+            41.392984,
+            2.182323,
+            1,
+            "Virgin and mother to Didac"
+          ],
+          [
+            "Vilassar de Mar",
+            41.5008621,
+            2.3858521,
+            1,
+            "Virgin and mother to Didac"
+          ]
+        ],
+        "fields": [
+          {
+            "name": "city",
+            "type": "string",
+            "format": ""
+          },
+          {
+            "name": "lat",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "lng",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "freq",
+            "type": "integer",
+            "format": ""
+          },
+          {
+            "name": "REP",
+            "type": "string",
+            "format": ""
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "version": "v1",
+    "config": {
+      "visState": {
+        "filters": [],
+        "layers": [
+          {
+            "id": "o056fje",
+            "type": "point",
+            "config": {
+              "dataId": "yhxns7an9",
+              "label": "Mecanoscrit and Reproduction",
+              "color": [
+                23,
+                184,
+                190
+              ],
+              "columns": {
+                "lat": "lat",
+                "lng": "lng",
+                "altitude": null
+              },
+              "isVisible": true,
+              "visConfig": {
+                "radius": 35.2,
+                "fixedRadius": false,
+                "opacity": 0.24,
+                "outline": false,
+                "thickness": 2,
+                "colorRange": {
+                  "name": "UberPool 5",
+                  "type": "diverging",
+                  "category": "Uber",
+                  "colors": [
+                    "#213E9A",
+                    "#6E1DB2",
+                    "#CA168E",
+                    "#E2260C",
+                    "#F9E200"
+                  ],
+                  "reversed": false
+                },
+                "radiusRange": [
+                  0,
+                  50
+                ],
+                "hi-precision": true
+              },
+              "textLabel": {
+                "field": null,
+                "color": [
+                  255,
+                  255,
+                  255
+                ],
+                "size": 50,
+                "offset": [
+                  0,
+                  0
+                ],
+                "anchor": "middle"
+              }
+            },
+            "visualChannels": {
+              "colorField": {
+                "name": "REP",
+                "type": "string"
+              },
+              "colorScale": "ordinal",
+              "sizeField": null,
+              "sizeScale": "linear"
+            }
+          },
+          {
+            "id": "dm9clsk",
+            "type": "point",
+            "config": {
+              "dataId": "yhxns7an9",
+              "label": "Mecanoscrit Raw",
+              "color": [
+                77,
+                181,
+                217
+              ],
+              "columns": {
+                "lat": "lat",
+                "lng": "lng",
+                "altitude": null
+              },
+              "isVisible": true,
+              "visConfig": {
+                "radius": 39.4,
+                "fixedRadius": false,
+                "opacity": 0.8,
+                "outline": false,
+                "thickness": 2,
+                "colorRange": {
+                  "name": "Global Warming",
+                  "type": "sequential",
+                  "category": "Uber",
+                  "colors": [
+                    "#5A1846",
+                    "#900C3F",
+                    "#C70039",
+                    "#E3611C",
+                    "#F1920E",
+                    "#FFC300"
+                  ]
+                },
+                "radiusRange": [
+                  0,
+                  50
+                ],
+                "hi-precision": true
+              },
+              "textLabel": {
+                "field": null,
+                "color": [
+                  255,
+                  255,
+                  255
+                ],
+                "size": 50,
+                "offset": [
+                  0,
+                  0
+                ],
+                "anchor": "middle"
+              }
+            },
+            "visualChannels": {
+              "colorField": null,
+              "colorScale": "quantile",
+              "sizeField": null,
+              "sizeScale": "linear"
+            }
+          }
+        ],
+        "interactionConfig": {
+          "tooltip": {
+            "fieldsToShow": {
+              "yhxns7an9": [
+                "city",
+                "freq",
+                "REP"
+              ]
+            },
+            "enabled": true
+          },
+          "brush": {
+            "size": 0.5,
+            "enabled": false
+          }
+        },
+        "layerBlending": "normal",
+        "splitMaps": []
+      },
+      "mapState": {
+        "bearing": 0,
+        "dragRotate": false,
+        "latitude": 41.00423081802681,
+        "longitude": 8.9469241265286,
+        "pitch": 0,
+        "zoom": 5.429663424014219,
+        "isSplit": false
+      },
+      "mapStyle": {
+        "styleType": "dark",
+        "topLayerGroups": {},
+        "visibleLayerGroups": {
+          "label": true,
+          "road": true,
+          "border": false,
+          "building": true,
+          "water": true,
+          "land": true,
+          "3d building": false
+        },
+        "mapStyles": {}
+      }
+    }
+  },
+  "info": {
+    "app": "kepler.gl",
+    "created_at": "Mon Mar 04 2019 10:41:55 GMT+0000 (Hora del Meridià de Greenwich)"
+  }
+}

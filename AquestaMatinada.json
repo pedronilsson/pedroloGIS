@@ -1,0 +1,352 @@
+{
+  "datasets": [
+    {
+      "version": "v1",
+      "data": {
+        "id": "tvus8279c",
+        "label": "aquesta1976.csv",
+        "color": [
+          143,
+          47,
+          191
+        ],
+        "allData": [
+          [
+            "Barcelona",
+            41.384741,
+            2.1829768,
+            13
+          ],
+          [
+            "Sagrada Família",
+            41.40351,
+            2.17447,
+            5
+          ],
+          [
+            "Sitges",
+            41.2347179,
+            1.8064412,
+            4
+          ],
+          [
+            "Puigcerdà",
+            42.4327442,
+            1.9362592,
+            2
+          ],
+          [
+            "Santa Maria",
+            41.383412,
+            2.182025,
+            3
+          ],
+          [
+            "Clot",
+            41.41069,
+            2.18939,
+            2
+          ],
+          [
+            "Plaça de Catalunya",
+            41.387923,
+            2.169951,
+            1
+          ],
+          [
+            "Portal de l'Àngel",
+            41.384402,
+            2.174141,
+            1
+          ],
+          [
+            "Catedral",
+            41.385055,
+            2.175971,
+            1
+          ],
+          [
+            "Carrer de la Princesa",
+            41.386687,
+            2.182166,
+            1
+          ],
+          [
+            "Carrer de les Camèlies",
+            41.411262,
+            2.159448,
+            1
+          ],
+          [
+            "Carrer de les Mosques",
+            41.384423,
+            2.182123,
+            1
+          ],
+          [
+            "Carrer de Cirera",
+            41.38518,
+            2.18194,
+            1
+          ],
+          [
+            "Sant Vicen�",
+            41.382372,
+            2.164096,
+            1
+          ],
+          [
+            "Flassaders",
+            41.386133,
+            2.181029,
+            1
+          ],
+          [
+            "Montcada",
+            41.385639,
+            2.180054,
+            1
+          ],
+          [
+            "Carretera del Carmel",
+            41.415286,
+            2.155207,
+            1
+          ],
+          [
+            "Colom",
+            41.379695,
+            2.174738,
+            1
+          ],
+          [
+            "Sants",
+            41.375651,
+            2.123271,
+            1
+          ],
+          [
+            "La Diagonal",
+            41.384395,
+            2.111864,
+            1
+          ],
+          [
+            "Carrer de Sant Vicenç",
+            41.382372,
+            2.164096,
+            1
+          ],
+          [
+            "Passeig del Born",
+            41.383988,
+            2.182424,
+            1
+          ],
+          [
+            "Horta",
+            41.4329,
+            2.1592,
+            1
+          ],
+          [
+            "Universitat de Barcelona",
+            41.38685,
+            2.16354,
+            1
+          ],
+          [
+            "Guinardó",
+            41.416277,
+            2.181084,
+            1
+          ],
+          [
+            "Plaça de Sanllehy",
+            41.413735,
+            2.161463,
+            1
+          ],
+          [
+            "Carrer dels Comtes",
+            41.383793,
+            2.177218,
+            1
+          ],
+          [
+            "Comtes",
+            41.383793,
+            2.177218,
+            1
+          ],
+          [
+            "Sant Gervasi",
+            41.411771,
+            2.128017,
+            1
+          ],
+          [
+            "Sant Gervasi de Cassoles",
+            41.40409,
+            2.139853,
+            1
+          ],
+          [
+            "Carrer Ample",
+            41.380057,
+            2.179674,
+            1
+          ],
+          [
+            "Escull",
+            41.397948,
+            2.119802,
+            1
+          ]
+        ],
+        "fields": [
+          {
+            "name": "city",
+            "type": "string",
+            "format": ""
+          },
+          {
+            "name": "lat",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "lng",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "freq",
+            "type": "integer",
+            "format": ""
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "version": "v1",
+    "config": {
+      "visState": {
+        "filters": [],
+        "layers": [
+          {
+            "id": "nfg9ro",
+            "type": "point",
+            "config": {
+              "dataId": "tvus8279c",
+              "label": "Aquesta matinada i potser per sempre (1976)",
+              "color": [
+                30,
+                150,
+                190
+              ],
+              "columns": {
+                "lat": "lat",
+                "lng": "lng",
+                "altitude": null
+              },
+              "isVisible": true,
+              "visConfig": {
+                "radius": 10,
+                "fixedRadius": false,
+                "opacity": 0.49,
+                "outline": false,
+                "thickness": 2,
+                "colorRange": {
+                  "name": "Global Warming",
+                  "type": "sequential",
+                  "category": "Uber",
+                  "colors": [
+                    "#5A1846",
+                    "#900C3F",
+                    "#C70039",
+                    "#E3611C",
+                    "#F1920E",
+                    "#FFC300"
+                  ]
+                },
+                "radiusRange": [
+                  16.8,
+                  39.5
+                ],
+                "hi-precision": true
+              },
+              "textLabel": {
+                "field": null,
+                "color": [
+                  255,
+                  255,
+                  255
+                ],
+                "size": 50,
+                "offset": [
+                  0,
+                  0
+                ],
+                "anchor": "middle"
+              }
+            },
+            "visualChannels": {
+              "colorField": null,
+              "colorScale": "quantile",
+              "sizeField": {
+                "name": "freq",
+                "type": "integer"
+              },
+              "sizeScale": "sqrt"
+            }
+          }
+        ],
+        "interactionConfig": {
+          "tooltip": {
+            "fieldsToShow": {
+              "tvus8279c": [
+                "city",
+                "freq"
+              ]
+            },
+            "enabled": true
+          },
+          "brush": {
+            "size": 0.5,
+            "enabled": false
+          }
+        },
+        "layerBlending": "normal",
+        "splitMaps": []
+      },
+      "mapState": {
+        "bearing": 0,
+        "dragRotate": false,
+        "latitude": 41.34055018151345,
+        "longitude": 2.004595617372512,
+        "pitch": 0,
+        "zoom": 10.62865472492086,
+        "isSplit": false
+      },
+      "mapStyle": {
+        "styleType": "dark",
+        "topLayerGroups": {},
+        "visibleLayerGroups": {
+          "label": true,
+          "road": true,
+          "border": false,
+          "building": true,
+          "water": true,
+          "land": true
+        },
+        "mapStyles": {}
+      }
+    }
+  },
+  "info": {
+    "app": "kepler.gl",
+    "created_at": "Thu Dec 13 2018 13:11:40 GMT+0000 (Hora del Meridià de Greenwich)"
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "datasets": [
+    {
+      "version": "v1",
+      "data": {
+        "id": "4znsofq",
+        "label": "statstopols67.csv",
+        "color": [
+          143,
+          47,
+          191
+        ],
+        "allData": [
+          [
+            "Chicago",
+            41.8373,
+            -87.6861,
+            10,
+            "y"
+          ],
+          [
+            "Los Angeles",
+            34.114,
+            -118.4068,
+            7,
+            "y"
+          ],
+          [
+            "Central Park",
+            46.9705,
+            -123.7018,
+            5,
+            "y"
+          ],
+          [
+            "Kingston",
+            37.6504,
+            -84.2416,
+            5,
+            "y"
+          ],
+          [
+            "Cuba",
+            39.802,
+            -97.4575,
+            4,
+            "y"
+          ],
+          [
+            "Miami",
+            39.3224,
+            -93.2258,
+            2,
+            "y"
+          ],
+          [
+            "Glendale",
+            42.7381,
+            -123.4294,
+            2,
+            "y"
+          ],
+          [
+            "Brooklyn",
+            37.2898,
+            -86.5764,
+            2,
+            "y"
+          ],
+          [
+            "Harlem",
+            48.5318,
+            -108.7847,
+            2,
+            "y"
+          ],
+          [
+            "Browns",
+            38.3775,
+            -87.9831,
+            1,
+            "y"
+          ],
+          [
+            "Boston",
+            37.7838,
+            -85.6804,
+            1,
+            "y"
+          ],
+          [
+            "Manhattan",
+            45.8622,
+            -111.3343,
+            1,
+            "y"
+          ],
+          [
+            "Riverdale",
+            37.39,
+            -97.3725,
+            1,
+            "y"
+          ],
+          [
+            "Morton Grove",
+            42.0423,
+            -87.789,
+            1,
+            "y"
+          ],
+          [
+            "Jamaica",
+            41.8452,
+            -94.307,
+            1,
+            "y"
+          ],
+          [
+            "Oklahoma",
+            40.5804,
+            -79.5754,
+            1,
+            "y"
+          ],
+          [
+            "Niagara Falls",
+            43.0921,
+            -79.0147,
+            1,
+            "y"
+          ],
+          [
+            "Kansas",
+            41.2452,
+            -83.2839,
+            1,
+            "y"
+          ],
+          [
+            "Candor",
+            40.392,
+            -80.309,
+            1,
+            "y"
+          ],
+          [
+            "Washington",
+            31.5788,
+            -91.2993,
+            1,
+            "y"
+          ],
+          [
+            "Morningside",
+            44.3662,
+            -98.1835,
+            1,
+            "y"
+          ],
+          [
+            "Zena",
+            36.513,
+            -94.8454,
+            1,
+            "y"
+          ],
+          [
+            "Quimby",
+            42.6292,
+            -95.644,
+            1,
+            "y"
+          ],
+          [
+            "Lafayette",
+            45.2462,
+            -123.1115,
+            1,
+            "y"
+          ],
+          [
+            "Nursery",
+            28.9236,
+            -97.0986,
+            1,
+            "y"
+          ],
+          [
+            "Greenwich",
+            38.4311,
+            -111.923,
+            1,
+            "y"
+          ],
+          [
+            "Pittsburgh",
+            40.4396,
+            -79.9763,
+            1,
+            "y"
+          ],
+          [
+            "Tulsa",
+            36.1284,
+            -95.9037,
+            1,
+            "y"
+          ],
+          [
+            "Clinton",
+            36.6664,
+            -88.9938,
+            1,
+            "y"
+          ],
+          [
+            "Amarillo",
+            35.1999,
+            -101.8297,
+            1,
+            "y"
+          ],
+          [
+            "Tucumcari",
+            35.1701,
+            -103.7043,
+            1,
+            "y"
+          ],
+          [
+            "San Antonio",
+            37.0208,
+            -106.0281,
+            1,
+            "y"
+          ],
+          [
+            "Las Cruces",
+            34.508,
+            -120.229,
+            1,
+            "y"
+          ],
+          [
+            "Phoenix",
+            42.2748,
+            -122.8151,
+            1,
+            "y"
+          ],
+          [
+            "Blue Island",
+            41.6578,
+            -87.6812,
+            1,
+            "y"
+          ],
+          [
+            "Queens",
+            40.7498,
+            -73.7976,
+            1,
+            "y"
+          ],
+          [
+            "Lincoln Park",
+            42.2433,
+            -83.181,
+            1,
+            "y"
+          ],
+          [
+            "Las Vegas",
+            36.2288,
+            -115.2603,
+            1,
+            "y"
+          ],
+          [
+            "Coney Island",
+            36.593,
+            -93.3972,
+            1,
+            "y"
+          ],
+          [
+            "New York",
+            40.6943,
+            -73.9249,
+            1,
+            "y"
+          ],
+          [
+            "Hollywood",
+            32.7523,
+            -80.2106,
+            1,
+            "y"
+          ],
+          [
+            "Manila",
+            40.9922,
+            -109.721,
+            1,
+            "y"
+          ]
+        ],
+        "fields": [
+          {
+            "name": "city",
+            "type": "string",
+            "format": ""
+          },
+          {
+            "name": "lat",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "lng",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "freq",
+            "type": "integer",
+            "format": ""
+          },
+          {
+            "name": "column_4",
+            "type": "string",
+            "format": ""
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "version": "v1",
+    "config": {
+      "visState": {
+        "filters": [],
+        "layers": [
+          {
+            "id": "3j0c7u",
+            "type": "point",
+            "config": {
+              "dataId": "4znsofq",
+              "label": "Pols nova de runes velles (1967) in the US",
+              "color": [
+                223,
+                73,
+                22
+              ],
+              "columns": {
+                "lat": "lat",
+                "lng": "lng",
+                "altitude": null
+              },
+              "isVisible": true,
+              "visConfig": {
+                "radius": 10,
+                "fixedRadius": false,
+                "opacity": 0.36,
+                "outline": false,
+                "thickness": 2,
+                "colorRange": {
+                  "name": "Global Warming",
+                  "type": "sequential",
+                  "category": "Uber",
+                  "colors": [
+                    "#5A1846",
+                    "#900C3F",
+                    "#C70039",
+                    "#E3611C",
+                    "#F1920E",
+                    "#FFC300"
+                  ]
+                },
+                "radiusRange": [
+                  33.6,
+                  121.4
+                ],
+                "hi-precision": false
+              },
+              "textLabel": {
+                "field": null,
+                "color": [
+                  255,
+                  255,
+                  255
+                ],
+                "size": 50,
+                "offset": [
+                  0,
+                  0
+                ],
+                "anchor": "middle"
+              }
+            },
+            "visualChannels": {
+              "colorField": null,
+              "colorScale": "quantile",
+              "sizeField": {
+                "name": "freq",
+                "type": "integer"
+              },
+              "sizeScale": "sqrt"
+            }
+          }
+        ],
+        "interactionConfig": {
+          "tooltip": {
+            "fieldsToShow": {
+              "4znsofq": [
+                "city",
+                "freq",
+                "column_4"
+              ]
+            },
+            "enabled": true
+          },
+          "brush": {
+            "size": 0.5,
+            "enabled": false
+          }
+        },
+        "layerBlending": "normal",
+        "splitMaps": []
+      },
+      "mapState": {
+        "bearing": 0,
+        "dragRotate": false,
+        "latitude": 39.67723695800639,
+        "longitude": -101.52882311495681,
+        "pitch": 0,
+        "zoom": 4.33787880565405,
+        "isSplit": false
+      },
+      "mapStyle": {
+        "styleType": "dark",
+        "topLayerGroups": {},
+        "visibleLayerGroups": {
+          "label": true,
+          "road": true,
+          "border": false,
+          "building": true,
+          "water": true,
+          "land": true
+        },
+        "mapStyles": {}
+      }
+    }
+  },
+  "info": {
+    "app": "kepler.gl",
+    "created_at": "Fri Dec 21 2018 16:40:01 GMT+0000 (Hora del Meridià de Greenwich)"
+  }
+}
